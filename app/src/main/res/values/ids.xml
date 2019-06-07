@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item name="toolbar" type="id"></item>
+    <item name="fabtoolbar_container" type="id" ></item>
+    <item name="fab" type="id" ></item>
+    <item name="fabtoolbar_toolbar" type="id" ></item>
 </resources>
